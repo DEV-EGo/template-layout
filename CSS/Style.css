@@ -30,7 +30,7 @@ body{
     float: left;
 } 
 
-.author{
+.author-box{
     border-top: 1px solid rgb(112, 112, 112);
     padding-top: 20px;
 }
@@ -55,4 +55,14 @@ h2 {
 
 .author-text{
     font-size: 22px;
+}
+
+.other {
+    margin-bottom: 40px;
+}
+
+.author-box img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
 }
