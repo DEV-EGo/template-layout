@@ -55,6 +55,9 @@ h2 {
 
 .author-text{
     font-size: 22px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
 }
 
 .other {
@@ -65,4 +68,10 @@ h2 {
     height: 100px;
     width: 100px;
     border-radius: 50%;
+    float: left;
+}
+
+.blog-post img {
+    height: 150px;
+    width: auto;
 }
