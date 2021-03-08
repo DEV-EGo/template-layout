@@ -16,25 +16,23 @@ body{
 }
 .container{ 
     width: 1140px;
-    margin: auto;
-    /* margin-left: auto;
-    margin-right: auto; */
+    margin-left: auto;
+    margin: top 20px;;
+    margin-right: auto;
 }
 
 .blog-post{
-    background-color: #000fff;
     width: 75%;
     float: left;
+    padding-right: 30px;
 }
 
 .other-post{
-    background-color: #00ff00;
     width: 25%;
     float: left;
 }
 
 .author{
-    background-color: #ffff00;
 }
 h1, h2{
     color: #00960b
