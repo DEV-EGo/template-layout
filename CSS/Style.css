@@ -17,9 +17,13 @@ body{
 p{
     margin-bottom: 25px;
 }
-.container{ 
+.container { 
     width: 1140px;
     margin: 20px auto 0 auto;
+}
+
+.youtube{
+    float: left;
 }
 
 .blog-post{
