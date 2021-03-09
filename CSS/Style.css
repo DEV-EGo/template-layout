@@ -22,8 +22,24 @@ p{
     margin: 20px auto 0 auto;
 }
 
-.youtube{
-    float: left;
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin:10px;
+    /* justify-content: center;
+    align-items: center; */
+    /* align-content: space-around; */
+}
+
+.flex-container > div {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
 }
 
 .blog-post{
