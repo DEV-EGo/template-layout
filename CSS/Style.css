@@ -28,11 +28,6 @@ p{
     padding-right: 30px;
 }
 
-.other-post{
-    width: 25%;
-    float: left;
-} 
-
 .author-box{
     border-top: 1px solid rgb(112, 112, 112);
     padding-top: 20px;
@@ -65,9 +60,6 @@ h2 {
     margin-left: 10px;
 }
 
-.other {
-    margin-bottom: 40px;
-}
 
 .author-box img {
     height: 100px;
@@ -81,7 +73,17 @@ h2 {
     width: auto;
 }
 
-.other-post img{
+.side-info {
+    margin-bottom: 40px;
+}
+
+.sideInfo-post{
+    width: 25%;
+    float: left;
+} 
+
+
+.sideInfo-post img{
     height: 150px;
     width: auto;
 }
