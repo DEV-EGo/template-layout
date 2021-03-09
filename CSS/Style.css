@@ -123,3 +123,29 @@ h3 {
     height: 150px;
     width: 100%;
 }
+
+.row > .column{
+    padding: 0 8px;
+}
+
+.row ::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* four equal columns that float next to eachother */
+.column {
+    float: left;
+    width: 25%;
+}
+
+/* the modal (background) */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    width: 90%;
+    max-width: 1200px;
+}
