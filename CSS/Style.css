@@ -9,10 +9,13 @@
     clear: both;
 }
 
-
 body{
     font-family: Helvetica, Arial;
     font-size: 18px;
+}
+
+p{
+    margin-bottom: 25px;
 }
 .container{ 
     width: 1140px;
