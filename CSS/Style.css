@@ -141,3 +141,9 @@ h4{
     display: table;
     clear: both;
 }
+/* bootstrap */
+.btn-secondary {
+    color: #fff;
+    background-color: #fbffc4;
+    border-color: #6c757d;
+}
