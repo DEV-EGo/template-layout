@@ -71,6 +71,13 @@ h2 {
 
 h3 {
     color: #616161;
+
+}
+
+h4{ 
+    font-size: 25px;
+  margin-bottom: 10px;
+  color: #6a4545;
 }
 
 .main-text {
